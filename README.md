@@ -1,1 +1,1 @@
-# epic-free-games-mailing
+# Epic Games Free Games Mailing Service
